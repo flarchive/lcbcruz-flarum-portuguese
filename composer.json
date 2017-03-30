@@ -1,0 +1,33 @@
+{
+    "name": "lcbcruz/flarum-portuguese",
+    "type": "flarum-extension",
+    "description": "Portuguese language pack.",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.6"
+    },
+    "authors": [
+        {
+            "name": "lcbcruz"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Portuguese",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "pt-pt",
+            "title": "Portuguese"
+        }
+    }
+}
