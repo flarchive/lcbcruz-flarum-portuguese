@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of lcbcruz/flarum-portuguese.** Not for installation: use [Packagist](https://packagist.org/packages/lcbcruz/flarum-portuguese) or the [upstream repository](https://github.com/lcbcruz/flarum-portuguese).
 
-**0** versions archived · Latest: [`0.1.7`](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**8** versions archived · Latest: [`0.1.7`](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-03-30 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-03-31 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-03-31 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-03-31 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.3) |
+| `0.1.4` | 2017-03-31 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.4) |
+| `0.1.5` | 2017-04-03 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.5) |
+| `0.1.6` | 2017-04-05 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.6) |
+| `0.1.7` | 2017-04-05 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/lcbcruz-flarum-portuguese/tree/archive/v0.1.7) |
 
 Catalog entry: [packages/lcbcruz-flarum-portuguese.json](https://github.com/flarchive/archive-index/blob/main/packages/lcbcruz-flarum-portuguese.json)
 
